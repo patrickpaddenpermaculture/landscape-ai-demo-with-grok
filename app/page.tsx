@@ -171,7 +171,7 @@ export default function LandscapeTool() {
     <div className="min-h-screen bg-zinc-950 text-white py-12 px-6">
       <div className="max-w-5xl mx-auto">
         <h1 className="text-5xl font-serif font-bold text-center text-emerald-600 mb-3">
-          Fort Collins Xeriscape Rebate Designer
+          Fort Collins Landscape Design Tool
         </h1>
         <p className="text-center text-xl text-zinc-400 mb-12">
           See what your yard could look like and qualify for up to $1,000 from the City
